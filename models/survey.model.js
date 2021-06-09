@@ -56,5 +56,5 @@ class SurveyModel extends Model {
         }
     }
 }
-// add commentss
+// add commentsss
 module.exports = SurveyModel;
